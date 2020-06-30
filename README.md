@@ -1,5 +1,6 @@
 # magicVision
 EN: Converting a image into its color channles and merging them into a piece again.
+
 TR: 1 adet resmi renk kanallarına ayırıp daha sonra tekrar birleştirme.
 
 # But how it works - Ama nasıl çalışıyor
